@@ -42,6 +42,11 @@
 										Manager</span>
 							</a></li>
 							<li><a
+								href="/myOa/navigation/"> <i
+									class="icon-bars"></i> <span class="j-links-link">Navigation
+										Manager</span>
+							</a></li>
+							<li><a
 								href="/joomla/administrator/index.php?option=com_modules"> <i
 									class="icon-cube"></i> <span class="j-links-link">Module
 										Manager</span>

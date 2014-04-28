@@ -59,7 +59,7 @@ jQuery(document).ready(function()
 					<span class="icon-bar"></span>
 				</a>
 			
-			<a class="admin-logo" href="/joomla/administrator"><span class="icon-joomla"></span></a>
+			<a class="admin-logo" href="/myOa"><span class="icon-joomla"></span></a>
 
 			<a class="brand hidden-desktop hidden-tablet" href="http://127.0.0.1/joomla/" title="Preview 思密达" target="_blank">思密达<span class="icon-out-2 small"></span></a>
 
